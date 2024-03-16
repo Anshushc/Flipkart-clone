@@ -1,0 +1,257 @@
+*{
+    margin: 0px;
+    font-family: Arail;
+    justify-content: center;
+    border: border-box;
+  
+  }
+  
+
+
+
+
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: #047BD5;
+    color: white;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    text-align: center;
+    
+   }
+
+.nav-logo{
+ background-image: url('Flipkart-new-logo.jpeg');
+ height: 40px;
+ width: 100px;
+ background-size: cover;
+ border-radius: 1rem;
+ margin-top: 10px;
+ align-items: center;
+ 
+}
+
+ /* search panel */
+
+
+ 
+
+
+.nav-search{
+  
+    display: flex;
+    height: 40px;
+    width: 620px;
+   background-color: solid black;
+   margin-top: 8px;
+   border-radius: 4px;
+   margin-left: 3px;
+  text-decoration:solid;
+
+}
+
+.nav-search i{
+
+font-size: 30px;
+margin:5px 5px 0px;
+
+
+
+}
+
+.search-input{
+
+    width:100%;
+    font-size: 1rem;
+    text-align: left; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* login & cart*/
+
+.login-cart{
+    height: 1rem;
+    width: 1rem;
+
+
+}
+.nav-login{
+
+    margin-top: 1rem;  
+
+
+}
+.nav-cart-icon{
+    display: flex;
+    margin-top: 1rem;  
+}
+ .shop-section{
+ display: flex; 
+ padding: 0.5rem; 
+ justify-content: space-evenly;
+background-color: #3D5A6C;
+margin-top: 4px;
+
+
+
+ }
+
+.box-image{
+
+    height: 69px;
+    width: 69px;
+    background-size: cover;
+    border-radius: 1rem;
+
+}
+    
+h3{
+
+margin-bottom: 4px;
+text-align: center;
+font-size: 1rem;
+color: antiquewhite;
+
+
+
+}
+
+.nav-menu{
+height: 197px;
+width: auto;
+background-image: url('banner.webp');
+margin-top: 1rem;
+margin-left: 10px;
+margin-right: 10px;
+border-radius: 0.5rem;
+background-size: cover;
+ 
+
+}
+
+h2{
+    
+    margin-top: 8px;
+    margin-left: 1rem; 
+
+
+
+}
+ .nav-feature{
+    display: flex;  
+    justify-content: space-evenly;
+   margin-top: 4px; 
+
+ }
+ 
+.nav-feature-menu{
+    
+
+    width: 310px;
+    height: 180px;
+    background-size: cover;
+    
+
+}
+
+.border{
+
+border:2px solid transparent;
+
+
+}
+.border:hover {
+border: 2px solid white;
+
+}
+
+
+
+.foot-bar1{
+    
+    display: flex;
+  width: 100%;
+  height: 362px;
+  background-color: #0A090C;
+  justify-content: space-evenly;
+  margin-top: 1rem;
+  color: #3D5A6C;  
+  padding: 10px 0px 0px;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+ ul a {
+
+display: block; 
+margin-top: 10px;
+font-size: 15px;
+color: white; 
+
+
+ }
+
+ hr{
+
+   height: 250px;
+   margin-top: 30px;
+   border-radius: 2px;
+   
+
+ }
+
+ .address{
+    display: flex;
+    text-align: left;
+    align-items: left;
+  
+   }
+  
+   .address a{
+  
+   font-size: 0.8rem;
+   opacity: 80%;
+  
+   }
+ 
+ 
+ .social{
+  padding: 20px 0px 0px;
+
+
+ }
+
+ .social i {
+
+margin: 10px 10px 0px;
+font-size: 30px;
+justify-content: space-evenly;
+
+
+
+ }
+
+
+ .copyright{
+
+margin-top: 1px;
+  background-color: #0A090C;
+  color: white;
+  height: 30px;
+  display: flex;
+  align-items: center;
+
+
+ }
+
+ .foot2{
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: #0A090C;
+    color: white;
+ }
